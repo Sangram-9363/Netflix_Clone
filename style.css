@@ -18,7 +18,7 @@ body {
       rgba(0, 0, 0, 0) 60%,
       rgba(0, 0, 0, 0.8) 100%
     ),
-    url("./public/images/netflix_backgroundimage.jpg");
+    url("/images/netflix_backgroundimage.jpg");
   background-size: auto;
   background-position: center center;
   display: flex;
@@ -50,7 +50,7 @@ body {
 .nav-logo {
   width: 148px;
   height: 40px;
-  background-image: url("./public/images/logo.png");
+  background-image: url("/images/logo.png");
   background-size: cover;
   z-index: 2;
 }
@@ -259,7 +259,7 @@ option {
   width: 57px;
   height: 83px;
   /* margin-top:6px; */
-  background-image: url("./public/images/netflix3.png");
+  background-image: url("/images/netflix3.png");
   background-size: cover;
 }
 
@@ -279,7 +279,7 @@ option {
 .gif {
   width: 48px;
   height: 60px;
-  background-image: url("./public/images/netflix4.gif");
+  background-image: url("/images/netflix4.gif");
   background-size: cover;
 }
 
